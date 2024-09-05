@@ -62,6 +62,7 @@ input_prompt = """
                You are an expert in understanding invoices.
                You will receive input images as invoices &
                you will have to answer questions based on the input image
+               you will read the image and answer all the related questions
                """
 
 ## If ask button is clicked
